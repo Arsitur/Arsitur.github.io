@@ -331,7 +331,7 @@ body
 	gap: 25px;
 }
 
-@media (min-width: 550px) {
+@media (min-width: 350px) {
 		
 	.result-container
 	{
